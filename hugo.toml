@@ -60,7 +60,7 @@ pagination.pagerSize = 5
     title = "Day-dz | Cybersecurity"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Blog & showcase of cybersecurity topics"
       owner = ""
       keywords = ""
       copyright = ""
