@@ -24,6 +24,7 @@ pagination.pagerSize = 5
 
   centerTheme = true # center theme with default width
 
+
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
   # With this option you don't have to put the `cover` param in a front-matter.
@@ -53,6 +54,12 @@ pagination.pagerSize = 5
   # do not include @
   creator = ""
   site = ""
+
+[params.social]
+  name = "GitHub"
+  icon = "fa fa-github"
+  weight = 1
+  url = "https://github.com/day-dz"
 
 [languages]
   [languages.en]
