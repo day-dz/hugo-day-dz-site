@@ -55,7 +55,7 @@ client = vt.Client("<Put your API Key here :)>")
 file = client.get_object("/files/SHA256-SHA-1-OR-MD5-HASH-HERE")
 
 ```
-And you could do similar with the URL information endpoint but it required a little extra code as the you need to generate an identifier from the url before you can pull the information:
+And you could do similar with the URL information endpoint but it required a little extra code as then you need to generate an identifier from the url before you can pull the information:
 ```Python
 import vt
 
