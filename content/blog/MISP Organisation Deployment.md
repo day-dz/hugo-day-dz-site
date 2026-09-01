@@ -1,8 +1,8 @@
 +++
-title = "Deployment of Internal MISP Instance"
-date = "2026-09-01T16:14:34+01:00"
+title = "MISP Organisation Deployment"
+date = "2026-09-01T16:00:13+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = "Jack"
+author = ""
 cover = ""
 tags = ["project", "Short read"]
 keywords = ["MISP","Threat Intel", "Deployment","Hosted"]
